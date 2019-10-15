@@ -1,6 +1,6 @@
-baseurl = "https://www.WinterTechForum.com/"
+baseurl = "https://www.TribeWorks.Software/"
 languageCode = "en-us"
-title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado March 18-22, 2019"
+title = "TribeWorks: A Teal Software Development Organization"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -10,11 +10,11 @@ googleAnalytics = ""
 [params]
 	# General information
 	# author = "Bruce Eckel"
-	description = "A Self-Organizing Open Spaces Conference."
+	description = "A Teal Software Development Organization"
 
-	logo = "/images/wtf-web.jpg"
-	favicon = "images/wtf-favicon-96.ico"
-	banner_image = "/images/WinterTechForumBanner.png"
+	logo = "/images/tribeworks-circle-web.jpg"
+	favicon = "images/tribeworks-favicon-96.ico"
+	banner_image = "/images/TribeWorksBanner.png"
 
 	permalink = "#"
 
@@ -36,18 +36,13 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "WinterTechForum"
+	github  = "TribeWorks"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
 	name   = "Overview"
 	url    = "overview/"
 	weight = 10
-
-[[menu.main]]
-  name   = "2019 Photos"
-  url    = "https://photos.app.goo.gl/ssVAP6nDTTLyqaF2A"
-  weight = 15
 
 [[menu.main]]
 	name   = "Conference Theme"
