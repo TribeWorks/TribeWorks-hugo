@@ -1,6 +1,6 @@
 # The TribeWorks Hugo Static Site Source
 
-Hugo Static Site for [TribeWorks.software](www.TribeWorks.software).
+Hugo Static Site for [TribeWorks.software](http://www.TribeWorks.software).
 
 The site automatically works well on phones as well as computers and tablets.
 
