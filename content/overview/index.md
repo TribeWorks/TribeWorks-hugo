@@ -14,8 +14,9 @@ weight: 10
 
 ## Our Core Experiment
 
--   Maximize programmer happiness (From Dan Pink's "Drive": Autonomy,
-    Mastery Purpose). This seems to produce much better software and
+-   Maximize programmer happiness (From
+    [Dan Pink's "Drive"](https://youtu.be/u6XAPnuFjJc): Autonomy,
+    Mastery & Purpose). We think this produces much better software and
     higher per-hour productivity.
 
 ## How We Work
