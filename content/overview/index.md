@@ -4,45 +4,108 @@ type: index
 weight: 10
 ---
 
-Organized by Bruce Eckel<br/>
-<span style="font-size:150%">March 18 - 22, 2019</span>
-<span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
+## What We Are
 
-- Attendance limited to 45
+-   An experimentally-oriented software development consultancy started
+    by Bruce Eckel.
 
-- Price: $750
+-   A flat organization following the [Teal
+    model](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf)
 
-- When scheduling, please [note that there are events]({{< relref
-"schedule/index.md" >}}) the afternoon of the 17th and the morning of the 23rd.
+## Our Core Experiment
 
-- If you've previously attended any of the Crested Butte events and need a
-break on the fee, <a href="https://wintertechforum.com/contact/">make a
-request</a>. Don't let the fee be the reason you can't attend.
+-   Maximize programmer happiness (From Dan Pink's "Drive": Autonomy,
+    Mastery Purpose). This seems to produce much better software and
+    higher per-hour productivity.
 
-<div style="text-align:center;font-size:175%;font-weight:bold">
-<a href = "/registration">Registration</a>
-</div>
+## How We Work
 
-***
+-   Get rid of everything that doesn't produce software:
 
-**Developer Retreat**: This year there will a multi-day post-conference
-Developer Retreat, held at [Evolve Coworking](https://www.evolvework.co/).
-Registration for the conference includes the developer retreat. There is no
-theme; you work on your projects of interest and we discuss them during breaks
-and meals.
+    -   We are part of the no-estimate movement. You can always look to
+        see how fast things have been moving.
 
-***
+    -   Commuting doesn't produce software: Programmers are fully
+        remote, and meet using internet tools.
 
-- *I wanted to let you know how much I thoroughly enjoyed the week I spent in Crested Butte for the WTF conference. Thanks for helping to organize such a wonderful conference and bringing together such a great group of people. It was exciting to see how a group left unto themselves, can self organise and set out on a meaningful course. This spirit of the event really resonated with me and I'm looking forward to continuing this journey thoughout the year.* -- Will Mooney
+    -   Agile-ish: we keep the things that produce software
 
-- *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks
+-   Get rid of any friction that slows down development.
 
-- *I'm still stunned by how impactful WTF is ... each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt, Mozilla
+-   We do whatever we can to mitigate urgency. Living with urgency
+    degrades the quality of life, so we think it probably degrades the
+    quality of software as well.
 
-- *The roundup has been the best and most transformative conference of my life, by far. It's directly responsible for getting me where I am.* -- Joe Sondow
+-   Programmers decide on a daily basis how much they work (Autonomy).
+    There is no emphasis on "putting in the hours," as we believe that
+    degrades quality. Programmers don't push past the point of
+    diminishing returns \-- they only work when they can be actively
+    engaged and enthusiastic about your project.
 
-- *In my experience, the open-spaces forums that Bruce has facilitated have been a great source of new ideas, new friends in the tech world, and a fresh source of inspiration and energy I could apply to my regular work.* -- Joel Neely
+-   Software development is a pure knowledge-based profession. The
+    smarter our programmers are, the more you benefit. We invest to
+    increase expertise.
 
-- Dianne Marsh's [Summary of the 2016 WTF](http://diannemarsh.com/conference-summary-winter-tech-forum-2016/)
+-   Maximal transparency: we use tools that allow everyone to see
+    what's happening at all times. This eliminates the need for status
+    meetings.
 
-- Chris Hartjes on his [First WTF Experience](https://www.littlehart.net/atthekeyboard/2017/03/12/fighting-fear-and-loathing-in-crested-butte/).
+-   We make decisions based on evidence and direct experience and
+    experiments.
+
+    -   We minimize what-if thinking.
+
+## Tools and Process
+
+-   Extensive use of Github: You own the Github repo, and the repo is
+    your deliverable. You have access to the current state of the repo
+    at all times. If you decide that the project is finished or that
+    you'd like to work with a different company, the change requires
+    minimal effort because you have all artifacts from the
+    project.
+
+-   We use Github projects to show what is on the task list, what's
+    currently being worked on, and what is finished, so you can see
+    what's in process at any time.
+
+-   Status meetings are unnecessary. There are no regular scheduled
+    meetings, and meetings are only held to understand new feature
+    requests or address problems.
+
+-   Meetings can be requested by either customer or programmer, as
+    needed.
+
+-   You pay hourly for programmer time + organizational overhead. Time
+    for each programmer is kept on Google spreadsheets which you have
+    access to. Billing is monthly.
+
+## Technologies
+
+-   We seek Python projects.
+
+-   We've been using Vue.js for the front end and Django for
+    microservices, deploying to the Google cloud.
+
+-   We're happy to learn any technology if you're willing to pay for
+    the time.
+
+## Preferences
+
+-   Use latest version of Python if possible.
+
+-   Use Python type declarations
+
+-   Conform to coding standards via automated tools (see
+    [Python Code Quality/](https://realpython.com/python-code-quality/)).
+
+-   Standardized code formatting: we use Black, but can adapt to other
+    formatters as needed.
+
+-   We are experimenting with Sourcery for assisted code
+    refactoring.
+
+-   Automatic generation of documentation, so that the docstrings can
+    be the single source of truth (and thus better
+    maintained).
+
+-   Cookiecutter for creating projects.
