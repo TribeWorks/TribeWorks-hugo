@@ -98,7 +98,7 @@ weight: 10
 
 -   Conform to coding standards via automated tools such as
     [Flake8](http://flake8.pycqa.org/en/latest/). See
-    [Python Code Quality/](https://realpython.com/python-code-quality/).
+    [Python Code Quality](https://realpython.com/python-code-quality/).
 
 -   Use Python type declarations, and [mypy](http://mypy-lang.org/) for type checking.
 
