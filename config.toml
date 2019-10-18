@@ -12,7 +12,7 @@ googleAnalytics = ""
 	# author = "Bruce Eckel"
 	description = "A Teal Software Development Organization"
 
-	logo = "/images/tribeworks-circle-web.jpg"
+	logo = "/images/tribeworks-circle-web.png"
 	favicon = "images/tribeworks-favicon-96.ico"
 	banner_image = "/images/TribeWorksBanner.png"
 
