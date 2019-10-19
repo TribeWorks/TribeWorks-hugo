@@ -52,9 +52,7 @@ weight: 10
     meetings.
 
 -   We make decisions based on evidence and direct experience and
-    experiments.
-
-    -   We minimize what-if thinking.
+    experiments. We minimize what-if thinking.
 
 ## Tools and Process
 
