@@ -35,7 +35,7 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "TribeWorks"
+	github  = "TribeWorks/TribeWorks-hugo"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
@@ -49,7 +49,7 @@ googleAnalytics = ""
 	weight = 20
 
 [[menu.main]]
-	name   = "Tools & Process"
+	name   = "Process"
 	url    = "process/"
 	weight = 30
 
@@ -59,8 +59,8 @@ googleAnalytics = ""
 	weight = 40
 
 [[menu.main]]
-	name   = "Technical Preferences"
-	url    = "preferences/"
+	name   = "Tools"
+	url    = "tools/"
 	weight = 50
 
 [[menu.main]]

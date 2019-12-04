@@ -1,5 +1,5 @@
 ---
-title: Technical Preferences
+title: Tools
 type: index
 weight: 50
 ---

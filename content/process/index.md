@@ -1,5 +1,5 @@
 ---
-title: Tools and Process
+title: Process
 type: index
 weight: 30
 ---
