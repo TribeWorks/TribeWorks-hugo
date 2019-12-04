@@ -44,8 +44,28 @@ googleAnalytics = ""
 	weight = 10
 
 [[menu.main]]
-	name   = "About"
-	url    = "about/"
+	name   = "How We Work"
+	url    = "how/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Tools & Process"
+	url    = "process/"
+	weight = 30
+
+[[menu.main]]
+	name   = "Technologies"
+	url    = "technologies/"
+	weight = 40
+
+[[menu.main]]
+	name   = "Technical Preferences"
+	url    = "preferences/"
+	weight = 50
+
+[[menu.main]]
+	name   = "Contact"
+	url    = "contact/"
 	weight = 150
 
 [blackfriday]

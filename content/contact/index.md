@@ -1,5 +1,5 @@
 ---
-title: About
+title: Contact
 weight: 150
 ---
 
@@ -24,6 +24,7 @@ while(x=eval(x));
 //]]>
 </script>
 
+### About
 
 + Site built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
