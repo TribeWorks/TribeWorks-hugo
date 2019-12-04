@@ -1,7 +1,7 @@
 baseurl = "https://TribeWorks.software/"
 languageCode = "en-us"
 title = "TribeWorks: A Teal Software Development Organization"
-theme = "hugo-material-docs"
+theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
