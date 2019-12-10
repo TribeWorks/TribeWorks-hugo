@@ -11,8 +11,9 @@ weight: 20
     -   Commuting doesn't produce software: Programmers are fully
         remote, and meet using internet tools.
 
-    -   We are part of the no-estimate movement. You can always look to
-        see how fast things have been moving.
+    -   We are part of the
+        [no-estimate movement](https://www.geepawhill.org/2017/07/15/estimating-stop-trying-harder/).
+        You can always look to see how fast things have been moving.
 
 -   Remove friction that slows down development.
 
@@ -36,3 +37,4 @@ weight: 20
 
 -   We make decisions based on evidence and direct experience and
     experiments. We minimize what-if thinking.
+
