@@ -1,6 +1,6 @@
 ---
 title: How We Work
-type: index
+# type: index
 weight: 20
 ---
 
@@ -36,4 +36,3 @@ weight: 20
 
 -   We make decisions based on evidence and direct experience and
     experiments. We minimize what-if thinking.
-

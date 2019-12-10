@@ -1,6 +1,6 @@
 ---
 title: Tools
-type: index
+# type: index
 weight: 50
 ---
 

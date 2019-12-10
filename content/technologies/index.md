@@ -1,6 +1,6 @@
 ---
 title: Technologies
-type: index
+# type: index
 weight: 40
 ---
 
@@ -10,4 +10,3 @@ weight: 40
     microservices, deploying to the Google cloud.
 
 -   We're happy to learn other technologies.
-

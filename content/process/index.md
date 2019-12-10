@@ -1,6 +1,6 @@
 ---
 title: Process
-type: index
+# type: index
 weight: 30
 ---
 
@@ -24,4 +24,3 @@ weight: 30
 -   You pay hourly for programmer time + organizational overhead. Time
     for each programmer is kept on Google spreadsheets which you have
     access to. Billing is monthly.
-
