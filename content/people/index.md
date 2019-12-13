@@ -19,6 +19,10 @@ Examples of Python work:
 -   [BookBuilder](https://github.com/BruceEckel/BookBuilder) A more complex Python program, which
     I actively use for book development.
 
+-   Pycon 2013 Presentation: Rethinking Errors: Learning from Scala and Go.
+    [Conference Abstract](https://us.pycon.org/2013/schedule/presentation/52/)
+    [Video](https://www.youtube.com/watch?v=REOL1AV_PCg)
+
 -   [A Heaping Helping Of Python Goodness](https://www.bruceeckel.com/2014/12/05/a-heaping-helping-of-python-goodness/)
 
 -   A three-part introduction to Python decorators:
