@@ -23,6 +23,8 @@ Examples of Python work:
     [Conference Abstract](https://us.pycon.org/2013/schedule/presentation/52/)
     [Video](https://www.youtube.com/watch?v=REOL1AV_PCg)
 
+-   [PyDev of the Week Interview](http://www.blog.pythonlibrary.org/2017/11/06/pydev-of-the-week-bruce-eckel/)
+
 -   [A Heaping Helping Of Python Goodness](https://www.bruceeckel.com/2014/12/05/a-heaping-helping-of-python-goodness/)
 
 -   A three-part introduction to Python decorators:
