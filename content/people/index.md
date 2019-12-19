@@ -39,11 +39,14 @@ Examples of Python work:
 Cody Bontecou
 -------------
 
-**Programmer**. CS degree, Western State University, Gunnison CO, May 2018. Python, Vue.js, Nuxt.
+**Programmer**. CS degree, Western Colorado University, Gunnison CO, May 2018. Python, Vue.js, Nuxt.
 
-- [A Site Showing Hot Springs, build with Vue](https://www.hotspringers.org/)
+-   [A Site Showing Hot Springs, build with Vue](https://www.hotspringers.org/)
 
 Joshua Fry
 ----------
 
-**Programmer**. CS degree, Western State University, Gunnison CO, May 2019. Python.
+**Programmer**. CS degree, Western Colorado University, Gunnison CO, May 2019. Python.
+
+-   [My Journey Coding Post Graduation](https://elastic-ardinghelli-51a2f0.netlify.com/2019/12/17/coding-post-college/)
+
