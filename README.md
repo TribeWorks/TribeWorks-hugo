@@ -6,13 +6,15 @@ The site automatically works well on phones as well as computers and tablets.
 
 ## To Build:
 
-1.  [Install the Hugo](https://hugodocs.info/getting-started/installing/#quick-install) static site generator.
+1.  [Install the Hugo](https://gohugo.io/getting-started/installing/#quick-install) static site generator.
 
-2.  Clone this repository into your "git" subdirectory.
+2.  Clone this repository.
 
-3.  From within this repository, run `hugo server` and open your browser at the URL given.
+3.  Run the build file `build.sh` from within this repository.
 
-4.  To create the deployable version, run `hugo` from within this repository.
+4.  From within this repository, run `hugo server` and open your browser at the URL given.
+
+5.  To create the deployable version, run `hugo` from within this repository.
     You should now see a `public` directory, which contains the deployable file
     set.
 
