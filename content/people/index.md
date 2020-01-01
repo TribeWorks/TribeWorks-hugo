@@ -41,7 +41,7 @@ Examples of Python work:
 
 **Programmer**. Actively working remotely since May, 2016, starting with pure-Django applications but has since branched
 into utilizing [Django Rest Framework](https://www.django-rest-framework.org/) to develop API's 
-that communicate with frontend frameworks such as [VueJS](https://vuejs.org/) and [NuxtJS](https://nuxtjs.org/).
+that communicate with frontends built with [VueJS](https://vuejs.org/) or [NuxtJS](https://nuxtjs.org/).
 
 -   Computer Science degree from [Western Colorado University](https://www.western.edu/), Gunnison CO., May 2018.
 
