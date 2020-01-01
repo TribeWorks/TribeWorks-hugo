@@ -36,12 +36,34 @@ Examples of Python work:
 
 -   [Some Conference Presentations](https://www.youtube.com/results?search_query=bruce+eckel+python)
 
-Cody Bontecou
+[Cody Bontecou](https://github.com/codybontecou/)
 -------------
 
-**Programmer**. CS degree, Western Colorado University, Gunnison CO, May 2018. Python, Vue.js, Nuxt.
+**Programmer**. Actively working remotely since May, 2016, starting with pure-Django applications but has since branched
+into utilizing [Django Rest Framework](https://www.django-rest-framework.org/) to develop API's 
+that communicate with frontend frameworks such as [VueJS](https://vuejs.org/) and [NuxtJS](https://nuxtjs.org/).
+-   Computer Science degree from [Western Colorado University](https://www.western.edu/), Gunnison CO., May 2018.
 
--   [A Site Showing Hot Springs, build with Vue](https://www.hotspringers.org/)
+#### Personal Project Showcase: Very little (if any) development is actively occuring on these sites.
+-   [Hotspringers.org](https://www.hotspringers.org/): _Published November 2019_. 
+The site is hosted on [Heroku](https://www.heroku.com).
+Backend built with [Django Rest Framework](https://www.django-rest-framework.org/). 
+Frontend built in [NuxtJS](https://nuxtjs.org/) with the UI-Component library [Vuetify](vuetifyjs.com/) 
+and utilizes [Vuex](https://vuex.vuejs.org/) for state-management.
+It is taking advantage of the [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial)
+ and [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision).   
+
+-   [Wowrares](https://www.wowrares.com/): _Published August 2019_.
+Single-Page application hosted on [Heroku](https://www.heroku.com), 
+backend built with [Django Rest Framework](https://www.django-rest-framework.org/),
+frontend built in [VueJS](https://vuejs.org/) with the UI-Component library [Vuetify](vuetifyjs.com/) and utilizes [Vuex](https://vuex.vuejs.org/) for state-management.
+All data was acquired using the Python web scraping framework [Selenium](https://selenium-python.readthedocs.io/).
+
+- [Mtgranks](https://www.mtgranks.com/): _Published May 2018_.
+This site (frontend + backend) was built purely in [Django](https://www.djangoproject.com/). 
+All data was acquired using the Python web scraping framework [Selenium](https://selenium-python.readthedocs.io/). 
+
+
 
 Joshua Fry
 ----------
