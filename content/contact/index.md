@@ -3,6 +3,7 @@ title: Contact
 weight: 150
 ---
 
+<h2>
 <script type="text/javascript">
 //<![CDATA[
 <!--
@@ -23,7 +24,7 @@ while(x=eval(x));
 //-->
 //]]>
 </script>
--------------------------------------------------------------------------------
+</h2>
 
 ### About
 
