@@ -7,9 +7,10 @@ weight: 25
 -------------------------------------------
 
 **Coach/Internal Consultant**. Python programmer since version 1.3 (mid-90s).
-Attended most Pycon conferences, and has given a keynote and several
-presentations. Author of [10 books](https://www.mindviewllc.com/bibliography/)
-on programming languages. Examples of Python work:
+Attended most Pycon conferences, and has given a Pycon keynote and several
+presentations, as well as keynotes at regional Pycons (Puerto Rico, Brazil).
+Author of [10 books](https://www.mindviewllc.com/bibliography/) on programming
+languages. Examples of Python work:
 
 -   [JSON Encoding Python Dataclasses](https://www.bruceeckel.com/2018/09/16/json-encoding-python-dataclasses/)
 
