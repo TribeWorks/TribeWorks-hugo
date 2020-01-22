@@ -4,15 +4,15 @@ title: How We Work
 weight: 20
 ---
 
-##   People before profits.
+##   People before profits
 
 Yes, we need to make a profit, but we're in business to create value for
 everyone, including the people who work here. Money is only a small part of
 that value.
 
-##   Get rid of things that don't produce software.
+##   Get rid of things that don't produce software
 
--   Agile-ish: we keep the things that produce software
+-   Agile-ish: we keep the things that produce software.
 
 -   Commuting doesn't produce software: Programmers are fully
     remote, and meet using internet tools.
