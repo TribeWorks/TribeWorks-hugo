@@ -25,7 +25,8 @@ weight: 20
     There is no emphasis on "putting in the hours," as we believe that
     degrades quality. Programmers don't push past the point of
     diminishing returns---they only work when they can be actively
-    engaged and enthusiastic about your project.
+    engaged and enthusiastic about your project. This produces more value
+    for your money.
 
 -   We do whatever we can to mitigate urgency. Living with urgency
     degrades the quality of life, so we think it probably degrades the

@@ -4,6 +4,10 @@ type: index
 weight: 10
 ---
 
+## Mission
+
+-   Get rid of things that don't produce software
+
 ## What We Are
 
 -   An experimentally-oriented software development consultancy started
