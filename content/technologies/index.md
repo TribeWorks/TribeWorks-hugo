@@ -12,29 +12,29 @@ We are happy to learn other technologies.
 
 ### Google Cloud Platform
 
-    + App Engine
-    + Cloud SQL
-    + App Engine
+  - App Engine
+  - Cloud SQL
+  - App Engine
 
 ### Docker
 
-    + Containerized Solutions for Cloud Run
-    + Custom Runtimes for App Engine
+  - Containerized Solutions for Cloud Run
+  - Custom Runtimes for App Engine
 
 ### Django Rest Framework
 
-    + Creating APIs
+  - Creating APIs
 
 ### Github & Github Actions
 
-    + Version control
-    + Continuous Integration
-    + Automated testing
+  - Version control
+  - Continuous Integration
+  - Automated testing
 
 ### Nuxt
 
-    + Connecting APIs to User Interfaces
+  - Connecting APIs to User Interfaces
 
 ### Vue.js
 
-    + Creating beautiful frontends
+  - Creating beautiful frontends
