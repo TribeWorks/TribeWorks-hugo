@@ -23,3 +23,19 @@ weight: 10
     Mastery & Purpose). We think this produces much better software and
     higher per-hour productivity.
 
+## Testimonials
+
+### Pando Telecom
+
+"We wanted to stand up a project very quickly but also wanted to create a
+project that used relevant libraries within the Python arena. The goal of the
+project was to create a system that could monitor our IOT devices. With
+multiple manufacturers used in the network, we wanted to create a system that
+provided a common user interface to manage and track these IOT devices.
+
+"The TribeWorks Team made it really easy for us to stand up our application. We
+provided our specs and criteria. TribeWorks provided the code and backend
+functionality. Our favorite part of working with TribeWorks was the blocks of
+time we could secure and get from coders. The no frills approach and
+flexibility worked for our teams."
+
