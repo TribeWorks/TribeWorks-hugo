@@ -10,6 +10,8 @@ weight: 10
 
 ## What We Are
 
+-   We create software to meet your needs. No job too small!
+
 -   An experimentally-oriented software development consultancy started
     by [Bruce Eckel](https://www.mindviewllc.com/).
 
