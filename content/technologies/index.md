@@ -64,7 +64,7 @@ We are happy to learn other technologies.
 
 ## We're Interested In ...
 
-(A repository of intriguing technologies and tutorials)
+(A list of intriguing technologies and tutorials)
 
 -   [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions)
     A flake8 plugin that helps you write better list/set/dict comprehensions.
@@ -93,3 +93,5 @@ We are happy to learn other technologies.
 
 -   [Python Testing Tutorial](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)
 
+-   [Pydantic](https://pydantic-docs.helpmanual.io/) Data validation and
+    settings management using python type annotations.
