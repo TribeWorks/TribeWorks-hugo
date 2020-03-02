@@ -94,4 +94,4 @@ We are happy to learn other technologies.
 -   [Python Testing Tutorial](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)
 
 -   [Pydantic](https://pydantic-docs.helpmanual.io/) Data validation and
-    settings management using python type annotations.
+    settings management using python type annotations. See also [This Article](https://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/)
