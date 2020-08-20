@@ -14,6 +14,10 @@ that value.
 
 -   Agile-ish: we keep the things that produce software.
 
+-   Agile acknowledges that you can only measure how fast you're moving in the
+    moment, but you can't decide how long something will take. If you have
+    fixed deadlines, we're not the right fit for your needs.
+
 -   Commuting doesn't produce software: Programmers are fully
     remote, and meet using internet tools.
 
