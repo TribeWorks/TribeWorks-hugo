@@ -29,12 +29,17 @@ that value.
 
 ## Autonomy
 
-Programmers decide on a daily basis how much they work.
-There is no emphasis on "putting in the hours," as we believe that
-degrades quality. Programmers don't push past the point of
-diminishing returns---they only work when they can be actively
-engaged and enthusiastic about your project. This produces more value
+Programmers decide on a daily basis how much they work. There is no emphasis on
+"putting in the hours," as we believe that degrades quality. Programmers don't
+push past the point of diminishing returns---they only work when they can be
+actively engaged and enthusiastic about your project. This produces more value
 for your money.
+
+Does this sound strange or unfeasible? Have a look at these articles:
+
+- [But are they working hard?](https://www.estherderby.com/but-are-they-working-hard/?utm_campaign=but-are-they-working-hard)
+
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 ## Reduce Urgency
 
