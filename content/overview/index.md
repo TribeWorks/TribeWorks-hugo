@@ -6,7 +6,7 @@ weight: 10
 
 ## Mission
 
--   Get rid of things that don't produce software
+-   Get rid of things that don't produce software. See [How We Work](https://tribeworks.software/how/).
 
 ## What We Are
 
