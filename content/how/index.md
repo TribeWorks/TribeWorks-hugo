@@ -41,6 +41,11 @@ Does this sound strange or unfeasible? Have a look at these articles:
 
 - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
+*"Accountability" and "commitment" are the language of control. A system built
+on trust and psychological safety doesn't require either concept, because
+reliably doing your best is the norm. Nobody has to be held accountable for
+not meeting commitments.*---[Allen Holub](https://twitter.com/allenholub).
+
 ## Reduce Urgency
 
 We do whatever we can to mitigate urgency. Living with urgency degrades the
